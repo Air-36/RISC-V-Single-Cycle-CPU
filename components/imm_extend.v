@@ -1,10 +1,6 @@
 // imm_extend.v - logic for sign extension
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         imm_extend.v
 # File Description: This module performs sign extension for immediate values based on the 
 #                   instruction format specified by immsrc. The immediate value is extracted 
 #                   from the instruction and sign-extended to 32 bits.

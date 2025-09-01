@@ -1,10 +1,6 @@
 // reset_ff.v - 8-bit resettable D flip-flop
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         reset_ff.v
 # File Description: This module implements a parameterized, 8-bit resettable D flip-flop. It stores an input value on
 #                   the rising edge of the clock or resets the output to 0 on the rising edge of the reset signal.
 # Global variables: None

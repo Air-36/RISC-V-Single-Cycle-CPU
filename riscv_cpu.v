@@ -1,10 +1,6 @@
 // riscv_cpu.v - single-cycle RISC-V CPU Processor
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         riscv_cpu.v
 # File Description: This is a single-cycle RISC-V CPU processor module. It instantiates the controller and datapath modules
 #                   to perform instruction execution and memory operations.
 # Global variables: None

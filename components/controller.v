@@ -1,10 +1,6 @@
 // controller.v - Controller for RISC-V CPU
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         controller.v
 # File Description: This module implements the controller for a RISC-V CPU,
 #                   generating control signals based on the opcode and function fields
 #                   of the instruction. It interacts with the main decoder and ALU decoder.

@@ -5,10 +5,6 @@
 //              register 0 is hardwired to 0
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         reg_file.v
 # File Description: This module implements a register file for a single-cycle RISC-V CPU with 32 registers,
 #                   each 32 bits wide. It features two combinational read ports and one synchronous write port.
 #                   Register 0 is hardwired to zero, and all registers are initialized to zero at startup.

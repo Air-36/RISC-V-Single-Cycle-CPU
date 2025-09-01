@@ -1,10 +1,6 @@
 // data_mem.v - data memory
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         data_mem.v
 # File Description: This module represents the data memory for a single-cycle RISC-V CPU. It supports word (sw/lw),
 #                   half-word (sh/lh), and byte (sb/lb) accesses with signed and unsigned operations.
 # Global variables: None

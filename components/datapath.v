@@ -1,10 +1,6 @@
 // datapath.v - Datapath for single-cycle RISC-V CPU
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         datapath.v
 # File Description: This module implements the datapath for a single-cycle RISC-V CPU.
 #                   It connects various components such as registers, ALU, and instruction 
 #                   decoding logic to execute instructions.

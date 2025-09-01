@@ -1,10 +1,6 @@
 // instr_mem.v - instruction memory
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         instr_mem.v
 # File Description: This module represents the instruction memory for a single-cycle RISC-V CPU.
 #                   It contains an array of instructions and supports word-aligned memory access.
 # Global variables: None

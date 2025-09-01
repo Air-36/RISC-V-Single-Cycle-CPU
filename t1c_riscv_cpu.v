@@ -1,10 +1,6 @@
 // t1c_riscv_cpu.v - Top Module to test riscv_cpu
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         t1c_riscv_cpu.v
 # File Description: This module is the top-level module for testing the RISCV CPU. It connects the RISCV CPU, instruction memory,
 #                   and data memory. It also handles external memory writes.
 # Global variables: None

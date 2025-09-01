@@ -1,10 +1,6 @@
 // alu_decoder.v - ALU Decoder for RISC-V CPU
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         alu_decoder.v
 # File Description: This module decodes ALU operation codes based on opcode,
 #                   funct3, and funct7b5 signals to generate the appropriate ALU control signals.
 # Global variables: None

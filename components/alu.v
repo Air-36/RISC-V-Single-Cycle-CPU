@@ -1,10 +1,6 @@
 // alu.v - ALU module
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         alu.v
 # File Description: This module implements an Arithmetic Logic Unit (ALU) that performs various 
 #                   arithmetic and logical operations based on the ALU control signal.
 # Global variables: None

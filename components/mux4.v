@@ -1,10 +1,6 @@
 // mux4.v - logic for 4-to-1 multiplexer
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         mux4.v
 # File Description: This module implements a 4-to-1 multiplexer. It selects one of four input data lines 
 #                   based on a 2-bit select signal and outputs the selected data line.
 # Global variables: None

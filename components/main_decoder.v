@@ -1,10 +1,6 @@
 // main_decoder.v - logic for main decoder
 
 /*
-# Team ID:          1664
-# Theme:            EcoMender Bot
-# Author List:      Shrinivas Basanagouda Malipatil, Shashank M N, Bommisetty Ganesh, Shishir Ravi Jois
-# Filename:         main_decoder.v
 # File Description: This module implements the main decoder for the RISC-V CPU. It takes opcode 
 #                   and function codes as inputs and generates control signals for the CPU's 
 #                   datapath based on the instruction type.
